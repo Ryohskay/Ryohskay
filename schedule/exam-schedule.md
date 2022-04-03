@@ -18,7 +18,7 @@ Assessment2 (Lec7-16 MCQ test)	:	csatest, 09-05-2022-00,48h
 Final Exam (MCQ?)		:	csafx, 18-05-2022-00,48h
 
 section Economy
-Econ Test (around Weds / topic 8-10)	:	ec4, 25-04-2022-09,24h
+Econ Test (topic 8-10)	:	ec4, 25-04-2022-09,24h
 Econ Final Assessment (On everything):	ec5, 02-05-2022-09,24h
 ```
 
