@@ -1,6 +1,7 @@
 # Exam / Assessment Schedule
-Here is the schedule for the rest of this semester.
+Here is the schedule for the rest of 2022 Spring semester.
 
+## Gantt Diagram
 ```mermaid
 gantt
 dateFormat DD-MM-YYYY-HH
@@ -20,3 +21,9 @@ section Economy
 Econ Test (around Weds / topic 8-10)	:	ec4, 25-04-2022-09,24h
 Econ Final Assessment (On everything):	ec5, 02-05-2022-09,24h
 ```
+
+### NOTES
+- OOP: CS1527 Object Oriented Programming (Python)
+- MATLAB: MA1516 Mathematics and Computations Through Programming MATLAB
+- Sys.Arch.: CS1533 Computer Systems and Architecture
+- Economy: EC1506 The Global Economy
