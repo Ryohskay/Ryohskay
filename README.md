@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a university student studying Computing. I am learning about OOP, Computer System, and MATLAB/Octave this semester.
+I am a university student studying Computing. I am learning about Java Software Programming, Database Systems, Swedish (Till A1) and Accountability/Accounting this semester.
