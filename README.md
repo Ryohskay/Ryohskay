@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a university student studying Computing. I am learning about Java Software Programming, Database Systems, Swedish (Till A1) and Accountability/Accounting this semester.
+I am a university student studying Computing. I am learning about Algorithms, Human-Computer Interaction, Computing-related Maths and Swedish (Till A2) this semester.
