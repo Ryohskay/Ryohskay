@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a university student studying Computing. I am studying about Artificial Intelligence, Operating Systems, Software Engineering practices, and Swedish (Till A2/B1) this semester.
+I am a university student studying Computing. I am studying about Distributed Systems, Software Engineering, Software and Entrepreneurship, and Swedish (Till A2/B1) this semester.
