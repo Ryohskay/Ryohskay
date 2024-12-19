@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a university student studying Computing. I am studying about Distributed Systems, Software Engineering, Software and Entrepreneurship, and Swedish (Till A2/B1) this semester.
+I am a student studying Computing at the University of Aberdeen.
+Interested in may programming languages, natural language processing, and public transport🚌🚃.
